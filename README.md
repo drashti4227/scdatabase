@@ -5,8 +5,10 @@ We chose to work with multiple datasets covering various aspects of COVID-19 to 
 
 Percent of NYC residents tested who tested positive(Dataset 1):
 This dataset includes columns like total_test, positive_test, percent_positive, percent_positive_7days_agg, and UptDate. It provides information on the number of tests conducted, the positivity rate, and aggregated weekly positivity percentages. This data helps us analyze testing coverage, trends in positive cases, and how testing rates fluctuated over time.
+
 Number of people admitted to NYC hospital for covid-19(Dataset 2):
 Key columns are ili_pne_admit (admissions for influenza-like and pneumonia conditions), baseline, percent_change, status, and ETLdate. This dataset tracks hospital admissions related to respiratory illnesses, which often coincide with COVID-19 outbreaks. The data provides context on healthcare system strain during the pandemic and how admissions varied in response to virus surges.
+
 Daily counts of Cases, Hospitalization and Deaths(Dataset 3):
 This dataset includes CASE_COUNT, PROBABLE_CASE_COUNT, HOSPITALIZED_COUNT, DEATH_COUNT, and 7-day averages (CASE_COUNT_7DAY_AVG, ALL_CASE_COUNT_7DAY_AVG, HOSP_COUNT_7DAY_AVG, DEATH_COUNT_7DAY_AVG). It covers confirmed and probable cases, hospitalizations, and deaths due to COVID-19, along with rolling averages. This data helps assess the severity of the pandemic, tracking confirmed infections, and monitoring trends in hospitalization and mortality rates over time.
 These datasets provide a comprehensive view of the pandemic, capturing essential aspects from testing to healthcare impact and outcomes. Analyzing them together allows us to understand how testing influenced case detection, how case surges impacted hospital systems, and the overall severity and trends of COVID-19. This multi-dimensional approach enriches our analysis, giving us a more complete picture of the pandemic’s dynamics.
