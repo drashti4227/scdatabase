@@ -85,6 +85,33 @@ Practice and hands-on experience are crucial for mastering these skills.
 ![image](https://github.com/user-attachments/assets/3b48c275-8c95-401f-a83e-9dc5da7e1faa)
 
 
+# **Challenges**
+
+**Challenge 1: Handling Missing Values**
+
+**Solution:** Missing values can disrupt the analysis and model training. To handle this, you can:
+
+1. Impute values using the mean or median for numerical data.
+2. Forward fill or backward fill for time-series data, filling gaps with the previous or next available data.
+3. Remove rows with excessive missing values if they’re not critical.
+
+**Challenge 2: Outliers Affecting Data Quality**
+
+**Solution:** Outliers can distort trends and predictions. To handle outliers, you can:
+
+1. Identify outliers using Z-scores or IQR.
+2. Cap values or Winsorize extreme values to reduce their impact.
+3. Log-transform data to make the distribution more normal.
+
+**Challenge 3: Data Inconsistencies Across Time Periods**
+
+**Solution:** When dealing with time-series data, different formats or irregular intervals can cause inconsistencies. To address this:
+
+1. Standardize date formats and ensure consistency across the dataset.
+2. Reindex the data to fill missing time periods with appropriate values, like forward filling or interpolation.
+
+
+
 References:
 https://youtu.be/3AKIA8pu8YY?si=gmUI0xr4fyHZO3rp
 
