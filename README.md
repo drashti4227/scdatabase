@@ -111,6 +111,9 @@ Practice and hands-on experience are crucial for mastering these skills.
 2. Reindex the data to fill missing time periods with appropriate values, like forward filling or interpolation.
 
 
+**Future stepse**
+
+
 Step 1: Predictive Modeling
 
 This step involves building machine learning models to gain deep insights from data. These insights can then be applied to real-world situations to make informed decisions.
