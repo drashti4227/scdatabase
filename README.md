@@ -111,6 +111,34 @@ Practice and hands-on experience are crucial for mastering these skills.
 2. Reindex the data to fill missing time periods with appropriate values, like forward filling or interpolation.
 
 
+Step 1: Predictive Modeling
+
+This step involves building machine learning models to gain deep insights from data. These insights can then be applied to real-world situations to make informed decisions.
+
+Step 2: Adding Transportation Data
+
+In this step, transportation data is incorporated into the analysis. This data can reveal insights about how people travel from one place to another. This information can be valuable for organizations that are considering hybrid work models, which combine remote work with in-person office work.
+
+Step 3: Identifying Global Supply Chain Disruptions
+
+This step focuses on identifying disruptions in global supply chains. These disruptions can be caused by various factors, such as factory closures, port congestion, and transportation bottlenecks.
+
+Overall Context
+
+While the image doesn't provide a specific context, these steps seem to be part of an analysis related to the impact of the COVID-19 pandemic. The pandemic has led to significant changes in the way people work and how goods are transported globally. By using data and predictive modeling, organizations can better understand and respond to these changes.
+
+Specific Examples
+
+Here are some examples of how these steps might be applied:
+
+Step 1: A company might use predictive modeling to forecast demand for its products based on historical sales data and other relevant factors.
+Step 2: A city government might use transportation data to identify areas where public transportation is congested and implement solutions to improve traffic flow.
+Step 3: A logistics company might use data to identify potential supply chain disruptions and develop contingency plans to minimize their impact.
+Additional Considerations
+
+It's important to note that data quality and privacy are crucial when implementing these steps. Organizations need to ensure that the data they use is accurate and reliable, and that they comply with relevant data privacy regulations.
+
+
 
 References:
 https://youtu.be/3AKIA8pu8YY?si=gmUI0xr4fyHZO3rp
