@@ -148,6 +148,7 @@ References:
 
 **books**
 1.sql for datascience
+
 2.sql for everyone
 
 
