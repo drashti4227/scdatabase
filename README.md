@@ -144,6 +144,13 @@ It's important to note that data quality and privacy are crucial when implementi
 
 
 References:
+
+
+**books**
+1.sql for datascience
+2.sql for everyone
+
+
 https://youtu.be/3AKIA8pu8YY?si=gmUI0xr4fyHZO3rp
 
 https://youtu.be/DiQ5Hni6oRI?si=oEuR7FrZwXMFEYXr
